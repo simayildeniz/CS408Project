@@ -1,0 +1,39 @@
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe.config
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csprojResolveAssemblyReference.cache
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Form1.resources
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Properties.Resources.resources
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csproj.GenerateResource.Cache
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.pdb
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.exe
+C:\TeomanStuff\SabanciUni\3A\CS408\Project\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe.config
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.exe
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csprojResolveAssemblyReference.cache
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Form1.resources
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Properties.Resources.resources
+C:\Users\simayildeniz\Desktop\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csproj.GenerateResource.Cache
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe.config
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.exe
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.pdb
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.pdb
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csprojResolveAssemblyReference.cache
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Form1.resources
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Properties.Resources.resources
+C:\TeomanStuff\SabanciUni\3A\CS408\ProjectUpdated\CS408ProjClient\CS408ProjClient\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csproj.GenerateResource.Cache
+C:\TeomanStuff\SabanciUni\3A\CS408\LatestProject\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe.config
+C:\TeomanStuff\SabanciUni\3A\CS408\LatestProject\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.exe
+C:\TeomanStuff\SabanciUni\3A\CS408\LatestProject\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe.config
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.exe
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.exe
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\bin\Debug\CS408ProjClient.pdb
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csprojResolveAssemblyReference.cache
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Form1.resources
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.Properties.Resources.resources
+C:\Users\simayildeniz\Desktop\CS408ProjClient (2)\CS408ProjClient\CS408ProjClient\obj\Debug\CS408ProjClient.csproj.GenerateResource.Cache
